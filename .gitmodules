@@ -10,3 +10,6 @@
 [submodule "Javascript-Header-Footer"]
 	path = Javascript-Header-Footer
 	url = https://github.com/Akshayasiva46/Javascript-Header-Footer
+[submodule "CSS-Box-model"]
+	path = CSS-Box-model
+	url = https://github.com/Akshayasiva46/CSS-Box-model
