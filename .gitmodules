@@ -1,0 +1,12 @@
+[submodule "Basic-HTML-Tags"]
+	path = Basic-HTML-Tags
+	url = https://github.com/Akshayasiva46/Basic-HTML-Tags
+[submodule "Bootstrap"]
+	path = Bootstrap
+	url = https://github.com/Akshayasiva46/Bootstrap
+[submodule "Javascript-"]
+	path = Javascript-
+	url = https://github.com/Akshayasiva46/Javascript-
+[submodule "Javascript-Header-Footer"]
+	path = Javascript-Header-Footer
+	url = https://github.com/Akshayasiva46/Javascript-Header-Footer
